@@ -53,10 +53,12 @@ This project utilizes metagenomic analysis to identify biosynthetic gene cluster
 📂 Metagenomics-Drug-Targeting
 │-- 📂 data/                  # Raw and processed metagenomic datasets
 │-- 📂 scripts/               # Scripts for preprocessing, analysis, and visualization
-│-- 📂 results/               # Output files from different analysis steps
-│-- 📂 models/                # Homology models and active site predictions
+│-- 📂 Results/               # Output files from different analysis steps
+│-- 📂 Models/                # Homology models and active site predictions
+│-- 📂 Extra resources/       # Presentation and extra resorces for reading 
 │-- 📄 README.md              # Project documentation
-│-- 📄 requirements.txt       # Dependencies for reproducing the analysis
+│-- 📄 Requirements.txt       # Dependencies for reproducing the analysis
+│-- 📄 Annotation file manipulation.txt   # Add COG and Pathway information to the annotation file
 ```
 
 ## Installation & Dependencies
@@ -98,31 +100,7 @@ The install.sh script will automatically install the necessary tools for metagen
    prokka spades_output_R1/contigs.fasta --outdir annotation_R1 --prefix my_bacterium_R1
    prokka spades_output_R2/contigs.fasta --outdir annotation_R2 --prefix my_bacterium_R2
    ```
-  6. ** Combine Pathway Information with Annotations:**
-     ```bash
-   awk -F"\t" '
-NR==FNR {
-    sub("ec:", "", $1); 
-    ec[$1] = (ec[$1] ? ec[$1] ", " : "") $2;  # Concatenate multiple items with a comma separator
-    next
-} 
-FNR > 1 && $5 in ec { 
-    print $0, ec[$5]  # Append all matched items to the row
-}' OFS="\t" annotation_R1/ec_pathway_mapping.txt  annotation_R1/my_bacterium_R1.tsv > annotation_R1/combined_ec_R1.txt
-
-
-awk -F"\t" '
-NR==FNR {
-    sub("ec:", "", $1); 
-    ec[$1] = (ec[$1] ? ec[$1] ", " : "") $2;  # Concatenate multiple items with a comma separator
-    next
-} 
-FNR > 1 && $5 in ec { 
-    print $0, ec[$5]  # Append all matched items to the row
-}' OFS="\t" annotation_R2/ec_pathway_mapping.txt annotation_R2/my_bacterium_R2.tsv > annotation_R2/combined_ec_R2.txt
-   ```
-
-
+ 
 ## Contributors
 
 - **Dr. Doaa Hussein** – Metagenomics & Microbiome  Senior Bioinformatics Scientist

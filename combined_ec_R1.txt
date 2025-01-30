@@ -1,0 +1,566 @@
+DLCOOICO_00006	CDS	477	bfr	1.16.3.1	COG2193	Bacterioferritin	path:map00860, path:ec00860
+DLCOOICO_00049	CDS	327	glpE	2.8.1.1	COG0607	Thiosulfate sulfurtransferase GlpE	path:map00920, path:ec00920, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_00054	CDS	1293	avtA	2.6.1.66	COG3977	Valine--pyruvate aminotransferase	path:map00290, path:ec00290, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00055	CDS	2031	malS	3.2.1.1	COG0366	Periplasmic alpha-amylase	path:map00500, path:ec00500, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00058	CDS	993	pldB	3.1.1.5	COG2267	Lysophospholipase L2	path:map00564, path:ec00564
+DLCOOICO_00059	CDS	801	yigL	3.1.3.74	COG0561	Pyridoxal phosphate phosphatase YigL	path:map00750, path:ec00750, path:map01100, path:ec01100
+DLCOOICO_00071	CDS	516	waaA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase	path:map00540, path:ec00540, path:map01100, path:ec01100
+DLCOOICO_00072	CDS	480	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase	path:map00770, path:ec00770, path:map01100, path:ec01100
+DLCOOICO_00078	CDS	459	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase	path:map00240, path:ec00240, path:map00983, path:ec00983, path:map01100, path:ec01100
+DLCOOICO_00080	CDS	282	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase	path:map00240, path:ec00240, path:map00983, path:ec00983, path:map01100, path:ec01100
+DLCOOICO_00098	CDS	1176	wecA	2.7.8.33	COG0472	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase	path:map00552, path:ec00552
+DLCOOICO_00111	CDS	714	aphA	3.1.3.2	COG3700	Class B acid phosphatase	path:map00730, path:ec00730, path:map00740, path:ec00740, path:map01100, path:ec01100
+DLCOOICO_00112	CDS	153	tyrB	2.6.1.57	COG1448	Aromatic-amino-acid aminotransferase	path:map00270, path:ec00270, path:map00300, path:ec00300, path:map00350, path:ec00350, path:map00360, path:ec00360, path:map00400, path:ec00400, path:map00401, path:ec00401, path:map00950, path:ec00950, path:map00960, path:ec00960, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00136	CDS	408	tdh	1.1.1.103	COG1063	L-threonine 3-dehydrogenase	path:map00260, path:ec00260, path:map01100, path:ec01100
+DLCOOICO_00138	CDS	1035	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	path:map00520, path:ec00520, path:map01100, path:ec01100
+DLCOOICO_00141	CDS	585	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	path:map00010, path:ec00010, path:map00260, path:ec00260, path:map00680, path:ec00680, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_00148	CDS	1446	selA	2.9.1.1	COG1921	L-seryl-tRNA(Sec) selenium transferase	path:map00450, path:ec00450, path:map00970, path:ec00970, path:map01100, path:ec01100
+DLCOOICO_00153	CDS	1518	garD_1	4.2.1.42	COG2721	Galactarate dehydratase (L-threo-forming)	path:map00053, path:ec00053, path:map01100, path:ec01100
+DLCOOICO_00154	CDS	900	yjhH	4.1.2.28	COG0329	putative 2-dehydro-3-deoxy-D-pentonate aldolase YjhH	path:map00040, path:ec00040, path:map01100, path:ec01100
+DLCOOICO_00168	CDS	1104	sthA	1.6.1.1	COG1249	Soluble pyridine nucleotide transhydrogenase	path:map00760, path:ec00760, path:map01100, path:ec01100
+DLCOOICO_00170	CDS	1374	argH	4.3.2.1	COG0165	Argininosuccinate lyase	path:map00220, path:ec00220, path:map00250, path:ec00250, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00171	CDS	774	argB	2.7.2.8	COG0548	Acetylglutamate kinase	path:map00220, path:ec00220, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00172	CDS	240	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase	path:map00220, path:ec00220, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00184	CDS	987	rdoA	2.7.11.1	COG2334	Serine/threonine protein kinase RdoA	path:map05170
+DLCOOICO_00186	CDS	585	mobA	2.7.7.77	COG0746	Molybdenum cofactor guanylyltransferase	path:map00790, path:ec00790, path:map01100, path:ec01100
+DLCOOICO_00189	CDS	357	frwD	2.7.1.202	COG1445	PTS system fructose-like EIIB component 3	path:map00051, path:ec00051, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_00192	CDS	321	fryB_1	2.7.1.202	COG1445	PTS system fructose-like EIIB component 1	path:map00051, path:ec00051, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_00198	CDS	1476	ilvC	1.1.1.86	COG0059	Ketol-acid reductoisomerase (NADP(+))	path:map00290, path:ec00290, path:map00770, path:ec00770, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00200	CDS	1545	ilvA	4.3.1.19	COG1171	L-threonine dehydratase biosynthetic IlvA	path:map00260, path:ec00260, path:map00290, path:ec00290, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00201	CDS	348	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase	path:map00290, path:ec00290, path:map00770, path:ec00770, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00204	CDS	1362	aas	6.2.1.20		Bifunctional protein Aas	path:map00071, path:ec00071
+DLCOOICO_00215	CDS	588	fdoG_1	1.17.1.9	COG0243	Formate dehydrogenase-O major subunit	path:map00630, path:ec00630, path:map00680, path:ec00680, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_00218	CDS	246	atpD	7.1.2.2	COG0055	ATP synthase subunit beta	path:map00190, path:ec00190, path:map00195, path:ec00195, path:map01100, path:ec01100
+DLCOOICO_00221	CDS	1830	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]	path:map00250, path:ec00250, path:map00520, path:ec00520, path:map01100, path:ec01100
+DLCOOICO_00232	CDS	1221	arcA_1	3.5.3.6	COG2235	Arginine deiminase	path:map00220, path:ec00220, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00233	CDS	933	arcC1	2.7.2.2		Carbamate kinase 1	path:map00220, path:ec00220, path:map00230, path:ec00230, path:map00910, path:ec00910, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_00236	CDS	1107	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase	path:map00260, path:ec00260, path:map00261, path:ec00261, path:map00270, path:ec00270, path:map00300, path:ec00300, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_00259	CDS	1266	puuE	2.6.1.19	COG0160	4-aminobutyrate aminotransferase PuuE	path:map00250, path:ec00250, path:map00410, path:ec00410, path:map00640, path:ec00640, path:map00650, path:ec00650, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_00265	CDS	1149	mtlD	1.1.1.17	COG0246	Mannitol-1-phosphate 5-dehydrogenase	path:map00051, path:ec00051, path:map01100, path:ec01100
+DLCOOICO_00287	CDS	624	gmk	2.7.4.8	COG0194	Guanylate kinase	path:map00230, path:ec00230, path:map01100, path:ec01100
+DLCOOICO_00294	CDS	342	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase	path:map00130, path:ec00130, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00304	CDS	369	dlgD	1.1.1.130	COG2055	2,3-diketo-L-gulonate reductase	path:map00040, path:ec00040, path:map00053, path:ec00053, path:map01100, path:ec01100
+DLCOOICO_00306	CDS	957	hemC	2.5.1.61	COG0181	Porphobilinogen deaminase	path:map00860, path:ec00860, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_00307	CDS	741	hemD	4.2.1.75	COG1587	Uroporphyrinogen-III synthase	path:map00860, path:ec00860, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_00318	CDS	486	levE	2.7.1.202	COG3444	PTS system fructose-specific EIIB component	path:map00051, path:ec00051, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_00328	CDS	1152	hemN	1.3.98.3	COG0635	Oxygen-independent coproporphyrinogen III oxidase	path:map00860, path:ec00860, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00335	CDS	2541	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase	path:map00970, path:ec00970
+DLCOOICO_00360	CDS	669	yrfG	3.1.3.5	COG1011	GMP/IMP nucleotidase YrfG	path:map00230, path:ec00230, path:map00240, path:ec00240, path:map00760, path:ec00760, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00370	CDS	828	rhaD	4.1.2.19	COG0235	Rhamnulose-1-phosphate aldolase	path:map00040, path:ec00040, path:map00051, path:ec00051, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_00371	CDS	1260	rhaA	5.3.1.14	COG4806	L-rhamnose isomerase	path:map00051, path:ec00051, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_00372	CDS	594	rhaB	2.7.1.5		Rhamnulokinase	path:map00040, path:ec00040, path:map00051, path:ec00051, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_00383	CDS	2514	metH	2.1.1.13	COG0646	Methionine synthase	path:map00270, path:ec00270, path:map00450, path:ec00450, path:map00670, path:ec00670, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00385	CDS	870	pldA	3.1.1.32	COG2829	Phospholipase A1	path:map00564, path:ec00564, path:map00592, path:ec00592, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00388	CDS	786	kduD_1	1.1.1.127		2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase	path:map00040, path:ec00040, path:map01100, path:ec01100
+DLCOOICO_00396	CDS	1647	ilvG	2.2.1.6		Acetolactate synthase isozyme 2 large subunit	path:map00290, path:ec00290, path:map00650, path:ec00650, path:map00660, path:ec00660, path:map00770, path:ec00770, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00397	CDS	264	ilvM	2.2.1.6	COG3978	Acetolactate synthase isozyme 2 small subunit	path:map00290, path:ec00290, path:map00650, path:ec00650, path:map00660, path:ec00660, path:map00770, path:ec00770, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00398	CDS	930	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase	path:map00270, path:ec00270, path:map00280, path:ec00280, path:map00290, path:ec00290, path:map00770, path:ec00770, path:map00966, path:ec00966, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00409	CDS	711	pfkA	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase isozyme 1	path:map00010, path:ec00010, path:map00030, path:ec00030, path:map00051, path:ec00051, path:map00052, path:ec00052, path:map00680, path:ec00680, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_00411	CDS	750	cdh	3.6.1.26	COG2134	CDP-diacylglycerol pyrophosphatase	path:map00564, path:ec00564, path:map01110, path:ec01110
+DLCOOICO_00414	CDS	1197	mgl	4.4.1.11	COG0626	L-methionine gamma-lyase	path:map00270, path:ec00270, path:map00450, path:ec00450, path:map01100, path:ec01100
+DLCOOICO_00420	CDS	1308	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit	path:map00970, path:ec00970
+DLCOOICO_00443	CDS	849	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase	path:map00790, path:ec00790, path:map01100, path:ec01100
+DLCOOICO_00465	CDS	1419	fucK	2.7.1.51	COG1070	L-fuculokinase	path:map00040, path:ec00040, path:map00051, path:ec00051, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_00466	CDS	216	fucI	5.3.1.25	COG2407	L-fucose isomerase	path:map00051, path:ec00051, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_00474	CDS	600	yihX	3.1.3.10	COG1011	Alpha-D-glucose 1-phosphate phosphatase YihX	path:map00010, path:ec00010, path:map01120, path:ec01120
+DLCOOICO_00487	CDS	762	udp	2.4.2.3	COG2820	Uridine phosphorylase	path:map00240, path:ec00240, path:map00983, path:ec00983, path:map01100, path:ec01100
+DLCOOICO_00492	CDS	1266	metC_1	4.4.1.13	COG0626	Cystathionine beta-lyase MetC	path:map00270, path:ec00270, path:map00450, path:ec00450, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00506	CDS	1434	glgA	2.4.1.21	COG0297	Glycogen synthase	path:map00500, path:ec00500, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00507	CDS	114	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase	path:map00500, path:ec00500, path:map00520, path:ec00520, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00517	CDS	948	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase	path:map00970, path:ec00970, path:map01100, path:ec01100
+DLCOOICO_00529	CDS	1428	gdhB	1.1.5.2	COG2133	Quinoprotein glucose dehydrogenase B	path:map00030, path:ec00030, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00532	CDS	1230	fabF	2.3.1.179		3-oxoacyl-[acyl-carrier-protein] synthase 2	path:map00061, path:ec00061, path:map00780, path:ec00780, path:map01100, path:ec01100
+DLCOOICO_00533	CDS	732	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG	path:map00061, path:ec00061, path:map00780, path:ec00780, path:map01100, path:ec01100
+DLCOOICO_00536	CDS	690	nanE2	5.1.3.9	COG3010	Putative N-acetylmannosamine-6-phosphate 2-epimerase 2	path:map00520, path:ec00520, path:map01100, path:ec01100
+DLCOOICO_00537	CDS	906	nanK	2.7.1.60	COG1940	N-acetylmannosamine kinase	path:map00520, path:ec00520, path:map01100, path:ec01100
+DLCOOICO_00545	CDS	1068	rffG	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase 2	path:map00521, path:ec00521, path:map00523, path:ec00523, path:map00525, path:ec00525, path:map00541, path:ec00541, path:map01055, path:ec01055, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00546	CDS	981	wecC	1.1.1.336	COG0677	UDP-N-acetyl-D-mannosamine dehydrogenase	path:map00520, path:ec00520, path:map00541, path:ec00541, path:map01100, path:ec01100
+DLCOOICO_00548	CDS	1602	aceB	2.3.3.9	COG2225	Malate synthase A	path:map00620, path:ec00620, path:map00630, path:ec00630, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_00552	CDS	327	nirD	1.7.1.15	COG2146	Nitrite reductase (NADH) small subunit	path:map00910, path:ec00910, path:map01100, path:ec01100, path:map01120, path:ec01120, path:map01310, path:ec01310
+DLCOOICO_00553	CDS	1104	nasD	1.7.1.4	COG1251	Nitrite reductase [NAD(P)H]	path:map00910, path:ec00910, path:map01100, path:ec01100, path:map01120, path:ec01120, path:map01310, path:ec01310
+DLCOOICO_00559	CDS	450	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B	path:map00030, path:ec00030, path:map00051, path:ec00051, path:map00710, path:ec00710, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_00567	CDS	1077	atpA	7.1.2.2		ATP synthase subunit alpha	path:map00190, path:ec00190, path:map00195, path:ec00195, path:map01100, path:ec01100
+DLCOOICO_00585	CDS	1218	alaA	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaA	path:map00220, path:ec00220, path:map00250, path:ec00250, path:map00710, path:ec00710, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_00594	CDS	420	fdhF_1	1.17.1.9	COG0243	Formate dehydrogenase H	path:map00630, path:ec00630, path:map00680, path:ec00680, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_00595	CDS	405	fdoG_2	1.17.1.9	COG0243	Formate dehydrogenase-O major subunit	path:map00630, path:ec00630, path:map00680, path:ec00680, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_00610	CDS	1356	tdcG_1	4.3.1.17	COG1760	L-serine dehydratase TdcG	path:map00260, path:ec00260, path:map00270, path:ec00270, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00632	CDS	444	ulaE_1	5.1.3.22	COG3623	L-ribulose-5-phosphate 3-epimerase UlaE	path:map00040, path:ec00040, path:map00053, path:ec00053, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_00633	CDS	696	sgbE	5.1.3.4	COG0235	L-ribulose-5-phosphate 4-epimerase SgbE	path:map00040, path:ec00040, path:map00053, path:ec00053, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_00651	CDS	1275	lysC	2.7.2.4	COG0527	Lysine-sensitive aspartokinase 3	path:map00260, path:ec00260, path:map00261, path:ec00261, path:map00270, path:ec00270, path:map00300, path:ec00300, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_00654	CDS	939	mdh_1	1.1.1.37	COG0039	Malate dehydrogenase	path:map00020, path:ec00020, path:map00270, path:ec00270, path:map00620, path:ec00620, path:map00630, path:ec00630, path:map00680, path:ec00680, path:map00710, path:ec00710, path:map00720, path:ec00720, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_00659	CDS	555	yggP	1.1.1.17	COG1063	Mannitol-1-phosphate 5-dehydrogenase	path:map00051, path:ec00051, path:map01100, path:ec01100
+DLCOOICO_00660	CDS	972	yggF	3.1.3.11	COG1494	Fructose-1,6-bisphosphatase 2 class 2	path:map00010, path:ec00010, path:map00030, path:ec00030, path:map00051, path:ec00051, path:map00680, path:ec00680, path:map00710, path:ec00710, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_00661	CDS	510	fumE	4.2.1.2	COG3722	Fumarase E	path:map00020, path:ec00020, path:map00620, path:ec00620, path:map00720, path:ec00720, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_00684	CDS	930	thrB	2.7.1.39	COG0083	Homoserine kinase	path:map00260, path:ec00260, path:map00270, path:ec00270, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_00686	CDS	987	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD	path:map00540, path:ec00540, path:map01100, path:ec01100
+DLCOOICO_00692	CDS	420	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase	path:map00770, path:ec00770, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00693	CDS	855	panC	6.3.2.1	COG0414	Pantothenate synthetase	path:map00410, path:ec00410, path:map00770, path:ec00770, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00694	CDS	381	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase	path:map00410, path:ec00410, path:map00770, path:ec00770, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00696	CDS	1164	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase	path:map00010, path:ec00010, path:map00710, path:ec00710, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_00697	CDS	297	epd	1.2.1.72	COG0057	D-erythrose-4-phosphate dehydrogenase	path:map00750, path:ec00750, path:map01100, path:ec01100
+DLCOOICO_00710	CDS	306	ulaB	2.7.1.194	COG3414	Ascorbate-specific PTS system EIIB component	path:map00053, path:ec00053, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_00712	CDS	1107	bcsZ	3.2.1.4	COG3405	Endoglucanase	path:map00500, path:ec00500, path:map01100, path:ec01100
+DLCOOICO_00724	CDS	327	kduD_2	1.1.1.127		2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase	path:map00040, path:ec00040, path:map01100, path:ec01100
+DLCOOICO_00726	CDS	693	ygeA	5.1.1.13		L-aspartate/glutamate-specific racemase	path:map00250, path:ec00250, path:map00470, path:ec00470, path:map01100, path:ec01100
+DLCOOICO_00740	CDS	765	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG	path:map00061, path:ec00061, path:map00780, path:ec00780, path:map01100, path:ec01100
+DLCOOICO_00760	CDS	114	dsdA	4.3.1.18	COG3048	D-serine dehydratase	path:map00260, path:ec00260, path:map00470, path:ec00470, path:map01100, path:ec01100
+DLCOOICO_00765	CDS	507	dgaF	4.1.2.14		2-dehydro-3-deoxy-phosphogluconate aldolase	path:map00030, path:ec00030, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_00769	CDS	369	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase	path:map00790, path:ec00790, path:map01100, path:ec01100
+DLCOOICO_00770	CDS	618	plsY	2.3.1.15	COG0344	putative glycerol-3-phosphate acyltransferase	path:map00561, path:ec00561, path:map00564, path:ec00564, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00789	CDS	528	fadE	1.3.8.7	COG1960	Acyl-coenzyme A dehydrogenase	path:map00071, path:ec00071, path:map00280, path:ec00280, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00790	CDS	771	yafV	3.5.1.3		Omega-amidase YafV	path:map00250, path:ec00250, path:map01100, path:ec01100
+DLCOOICO_00795	CDS	795	thyA	2.1.1.45	COG0207	Thymidylate synthase	path:map00240, path:ec00240, path:map00670, path:ec00670, path:map01100, path:ec01100
+DLCOOICO_00796	CDS	1455	xylB_1	2.7.1.17	COG1070	Xylulose kinase	path:map00040, path:ec00040, path:map01100, path:ec01100
+DLCOOICO_00797	CDS	237	xylA	5.3.1.5		Xylose isomerase	path:map00040, path:ec00040, path:map00051, path:ec00051, path:map01100, path:ec01100
+DLCOOICO_00817	CDS	954	coaA	2.7.1.33	COG1072	Pantothenate kinase	path:map00770, path:ec00770, path:map01100, path:ec01100
+DLCOOICO_00818	CDS	339	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA	path:map00780, path:ec00780, path:map01100, path:ec01100
+DLCOOICO_00823	CDS	528	pcaB	5.5.1.2	COG0015	3-carboxy-cis,cis-muconate cycloisomerase	path:map00362, path:ec00362, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_00829	CDS	1056	sbnA	2.5.1.140		N-(2-amino-2-carboxyethyl)-L-glutamate synthase	path:map00997, path:ec00997, path:map00998, path:ec00998, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00833	CDS	858	cdsA	2.7.7.41	COG0575	Phosphatidate cytidylyltransferase	path:map00564, path:ec00564, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00835	CDS	687	speB	3.5.3.11	COG0010	Agmatinase	path:map00330, path:ec00330, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00839	CDS	1176	hybC	1.12.99.6	COG0374	Hydrogenase-2 large chain	path:map00633, path:ec00633, path:map01120, path:ec01120
+DLCOOICO_00851	CDS	294	valS	6.1.1.9	COG0525	Valine--tRNA ligase	path:map00970, path:ec00970
+DLCOOICO_00865	CDS	459	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase	path:map00260, path:ec00260, path:map00460, path:ec00460, path:map00630, path:ec00630, path:map00670, path:ec00670, path:map00680, path:ec00680, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_00870	CDS	1152	adhB	1.1.1.1		Alcohol dehydrogenase 2	path:map00010, path:ec00010, path:map00071, path:ec00071, path:map00260, path:ec00260, path:map00350, path:ec00350, path:map00592, path:ec00592, path:map00620, path:ec00620, path:map00625, path:ec00625, path:map00626, path:ec00626, path:map00670, path:ec00670, path:map00830, path:ec00830, path:map00980, path:ec00980, path:map00982, path:ec00982, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_00875	CDS	483	csdA	2.8.1.7	COG0520	Cysteine desulfurase CsdA	path:map00730, path:ec00730, path:map01100, path:ec01100
+DLCOOICO_00876	CDS	144	fpr	1.18.1.2	COG1018	Flavodoxin/ferredoxin--NADP reductase	path:map00195, path:ec00195, path:map01100, path:ec01100
+DLCOOICO_00885	CDS	246	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase	path:map00230, path:ec00230, path:map00240, path:ec00240, path:map01100, path:ec01100
+DLCOOICO_00891	CDS	1005	gabD	1.2.1.79	COG1012	Succinate-semialdehyde dehydrogenase [NADP(+)] GabD	path:map00250, path:ec00250, path:map00650, path:ec00650, path:map00760, path:ec00760, path:map01100, path:ec01100
+DLCOOICO_00892	CDS	1818	bcsA	2.4.1.12	COG1215	Cellulose synthase catalytic subunit [UDP-forming]	path:map00500, path:ec00500, path:map01100, path:ec01100
+DLCOOICO_00904	CDS	891	metF	1.5.1.20	COG0685	5,10-methylenetetrahydrofolate reductase	path:map00670, path:ec00670, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_00905	CDS	204	rfbD_1	5.4.99.9		UDP-galactopyranose mutase	path:map00052, path:ec00052, path:map00520, path:ec00520, path:map00541, path:ec00541, path:map01100, path:ec01100
+DLCOOICO_00906	CDS	681	rfbD_2	5.4.99.9		UDP-galactopyranose mutase	path:map00052, path:ec00052, path:map00520, path:ec00520, path:map00541, path:ec00541, path:map01100, path:ec01100
+DLCOOICO_00915	CDS	201	ilvB	2.2.1.6	COG0028	Acetolactate synthase isozyme 1 large subunit	path:map00290, path:ec00290, path:map00650, path:ec00650, path:map00660, path:ec00660, path:map00770, path:ec00770, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00916	CDS	291	ilvN	2.2.1.6	COG0440	Acetolactate synthase isozyme 1 small subunit	path:map00290, path:ec00290, path:map00650, path:ec00650, path:map00660, path:ec00660, path:map00770, path:ec00770, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00922	CDS	738	plsC	2.3.1.51	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase	path:map00561, path:ec00561, path:map00564, path:ec00564, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_00925	CDS	492	gntK	2.7.1.12	COG3265	Thermoresistant gluconokinase	path:map00030, path:ec00030, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_00935	CDS	936	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit	path:map00240, path:ec00240, path:map00250, path:ec00250, path:map01100, path:ec01100
+DLCOOICO_00949	CDS	285	ulaF	5.1.3.4	COG0235	L-ribulose-5-phosphate 4-epimerase UlaF	path:map00040, path:ec00040, path:map00053, path:ec00053, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_00959	CDS	1002	gap_1	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase	path:map00010, path:ec00010, path:map00710, path:ec00710, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_00982	CDS	555	ygfA	6.3.3.2	COG0212	5-formyltetrahydrofolate cyclo-ligase	path:map00670, path:ec00670, path:map01100, path:ec01100
+DLCOOICO_00989	CDS	1191	uxuA_1	4.2.1.8	COG1312	Mannonate dehydratase	path:map00040, path:ec00040, path:map01100, path:ec01100
+DLCOOICO_00995	CDS	828	cpdA	3.1.4.53	COG1409	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA	path:map00230, path:ec00230, path:map01100, path:ec01100
+DLCOOICO_00996	CDS	1110	dgaE	4.3.1.29		D-glucosaminate-6-phosphate ammonia lyase	path:map00030, path:ec00030
+DLCOOICO_01000	CDS	663	sgbH	4.1.1.85	COG0269	3-keto-L-gulonate-6-phosphate decarboxylase SgbH	path:map00040, path:ec00040, path:map00053, path:ec00053, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_01004	CDS	732	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain	path:map00220, path:ec00220, path:map00240, path:ec00240, path:map00250, path:ec00250, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01022	CDS	1077	relA	2.7.6.5	COG0317	GTP pyrophosphokinase	path:map00230, path:ec00230, path:map01100, path:ec01100
+DLCOOICO_01031	CDS	699	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase	path:map00400, path:ec00400, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01035	CDS	819	wecE	2.6.1.59	COG0399	dTDP-4-amino-4,6-dideoxygalactose transaminase	path:map00541, path:ec00541, path:map01100, path:ec01100
+DLCOOICO_01047	CDS	450	aceA	4.1.3.1	COG2224	Isocitrate lyase	path:map00630, path:ec00630, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01051	CDS	213	garD_2	4.2.1.42	COG2721	Galactarate dehydratase (L-threo-forming)	path:map00053, path:ec00053, path:map01100, path:ec01100
+DLCOOICO_01062	CDS	963	argE	3.5.1.16	COG0624	Acetylornithine deacetylase	path:map00220, path:ec00220, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01095	CDS	816	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase	path:map00230, path:ec00230, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01099	CDS	996	nadB	1.4.3.16	COG0029	L-aspartate oxidase	path:map00250, path:ec00250, path:map00760, path:ec00760, path:map01100, path:ec01100
+DLCOOICO_01106	CDS	1524	tktB	2.2.1.1	COG0021	Transketolase 2	path:map00030, path:ec00030, path:map00710, path:ec00710, path:map01051, path:ec01051, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01107	CDS	780	srlD	1.1.1.140	COG1028	Sorbitol-6-phosphate 2-dehydrogenase	path:map00051, path:ec00051, path:map01100, path:ec01100
+DLCOOICO_01113	CDS	1467	fumB	4.2.1.2	COG1838	Fumarate hydratase class I, anaerobic	path:map00020, path:ec00020, path:map00620, path:ec00620, path:map00720, path:ec00720, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01121	CDS	987	iolU	1.1.1.371	COG0673	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU	path:map00562, path:ec00562, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_01127	CDS	336	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A	path:map00030, path:ec00030, path:map00051, path:ec00051, path:map00710, path:ec00710, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01136	CDS	189	nrfA	1.7.2.2	COG3303	Cytochrome c-552	path:map00910, path:ec00910, path:map01100, path:ec01100, path:map01120, path:ec01120, path:map01310, path:ec01310
+DLCOOICO_01154	CDS	504	acs_1	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase	path:map00010, path:ec00010, path:map00620, path:ec00620, path:map00630, path:ec00630, path:map00640, path:ec00640, path:map00680, path:ec00680, path:map00720, path:ec00720, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01155	CDS	741	lacZ	3.2.1.23	COG3250	Beta-galactosidase	path:map00052, path:ec00052, path:map00511, path:ec00511, path:map00531, path:ec00531, path:map00600, path:ec00600, path:map00604, path:ec00604, path:map01100, path:ec01100
+DLCOOICO_01159	CDS	1149	speA	4.1.1.19	COG1166	Biosynthetic arginine decarboxylase	path:map00330, path:ec00330, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01172	CDS	564	pabA	2.6.1.85	COG0512	Aminodeoxychorismate synthase component 2	path:map00790, path:ec00790
+DLCOOICO_01180	CDS	288	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase	path:map00230, path:ec00230, path:map01100, path:ec01100
+DLCOOICO_01185	CDS	1065	hemE	4.1.1.37	COG0407	Uroporphyrinogen decarboxylase	path:map00860, path:ec00860, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01195	CDS	762	thlA	2.3.1.9	COG0183	Acetyl-CoA acetyltransferase	path:map00071, path:ec00071, path:map00280, path:ec00280, path:map00310, path:ec00310, path:map00362, path:ec00362, path:map00380, path:ec00380, path:map00620, path:ec00620, path:map00630, path:ec00630, path:map00650, path:ec00650, path:map00720, path:ec00720, path:map00900, path:ec00900, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01227	CDS	732	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase	path:map00860, path:ec00860, path:map00970, path:ec00970, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01231	CDS	912	panE	1.1.1.169	COG1893	2-dehydropantoate 2-reductase	path:map00770, path:ec00770, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01246	CDS	1080	gppA	3.6.1.40	COG0248	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	path:map00230, path:ec00230, path:map01100, path:ec01100
+DLCOOICO_01247	CDS	714	murD	6.3.2.9	COG0771	UDP-N-acetylmuramoylalanine--D-glutamate ligase	path:map00470, path:ec00470, path:map00550, path:ec00550, path:map01100, path:ec01100
+DLCOOICO_01264	CDS	648	fucA	4.1.2.17	COG0235	L-fuculose phosphate aldolase	path:map00040, path:ec00040, path:map00051, path:ec00051, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_01269	CDS	849	qorB	1.6.5.2	COG0702	Quinone oxidoreductase 2	path:map00130, path:ec00130, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01273	CDS	387	thrC	4.2.3.1	COG0498	Threonine synthase	path:map00260, path:ec00260, path:map00750, path:ec00750, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01279	CDS	603	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase	path:map00250, path:ec00250, path:map01100, path:ec01100
+DLCOOICO_01280	CDS	360	cysE	2.3.1.30	COG1045	Serine acetyltransferase	path:map00270, path:ec00270, path:map00920, path:ec00920, path:map00998, path:ec00998, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01284	CDS	654	ribB	4.1.99.12	COG0108	3,4-dihydroxy-2-butanone 4-phosphate synthase	path:map00740, path:ec00740, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01287	CDS	618	tdk	2.7.1.21		Thymidine kinase	path:map00240, path:ec00240, path:map00983, path:ec00983, path:map01100, path:ec01100
+DLCOOICO_01289	CDS	861	dacB	3.4.16.4	COG2027	D-alanyl-D-alanine carboxypeptidase DacB	path:map00550, path:ec00550
+DLCOOICO_01292	CDS	183	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))	path:map00400, path:ec00400, path:map00999, path:ec00999, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01293	CDS	345	sucB	2.3.1.61	COG0508	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex	path:map00020, path:ec00020, path:map00310, path:ec00310, path:map00380, path:ec00380, path:map00785, path:ec00785, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01297	CDS	795	gltD_1	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain	path:map00250, path:ec00250, path:map00910, path:ec00910, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01307	CDS	132	ureC	3.5.1.5		Urease subunit alpha	path:map00220, path:ec00220, path:map00230, path:ec00230, path:map00791, path:ec00791, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_01312	CDS	516	pgpC	3.1.3.27	COG0560	Phosphatidylglycerophosphatase C	path:map00564, path:ec00564, path:map01100, path:ec01100
+DLCOOICO_01316	CDS	1455	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase	path:map00010, path:ec00010, path:map00030, path:ec00030, path:map00500, path:ec00500, path:map00520, path:ec00520, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01324	CDS	474	ppc	4.1.1.31	COG2352	Phosphoenolpyruvate carboxylase	path:map00620, path:ec00620, path:map00680, path:ec00680, path:map00710, path:ec00710, path:map00720, path:ec00720, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_01325	CDS	993	asnA	6.3.1.1	COG2502	Aspartate--ammonia ligase	path:map00250, path:ec00250, path:map00460, path:ec00460, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01329	CDS	951	ackA	2.7.2.1	COG0282	Acetate kinase	path:map00430, path:ec00430, path:map00620, path:ec00620, path:map00640, path:ec00640, path:map00680, path:ec00680, path:map00720, path:ec00720, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_01339	CDS	480	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	path:map00900, path:ec00900, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01340	CDS	393	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	path:map00900, path:ec00900, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01344	CDS	681	phnL	2.7.8.37	COG4778	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnL	path:map00440, path:ec00440, path:map01100, path:ec01100
+DLCOOICO_01351	CDS	975	cysI	1.8.1.2	COG0155	Sulfite reductase [NADPH] hemoprotein beta-component	path:map00920, path:ec00920, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_01352	CDS	801	fdoG_3	1.17.1.9	COG0243	Formate dehydrogenase-O major subunit	path:map00630, path:ec00630, path:map00680, path:ec00680, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_01359	CDS	267	tktA	2.2.1.1	COG0021	Transketolase 1	path:map00030, path:ec00030, path:map00710, path:ec00710, path:map01051, path:ec01051, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01375	CDS	522	ubiA	2.5.1.39	COG0382	4-hydroxybenzoate octaprenyltransferase	path:map00130, path:ec00130, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01376	CDS	747	plsB	2.3.1.15	COG2937	Glycerol-3-phosphate acyltransferase	path:map00561, path:ec00561, path:map00564, path:ec00564, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01381	CDS	891	garR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase	path:map00630, path:ec00630, path:map01100, path:ec01100
+DLCOOICO_01382	CDS	324	garL	4.1.2.20	COG3836	5-keto-4-deoxy-D-glucarate aldolase	path:map00053, path:ec00053, path:map01100, path:ec01100
+DLCOOICO_01389	CDS	192	gltD_2	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain	path:map00250, path:ec00250, path:map00910, path:ec00910, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01392	CDS	942	ppk	2.7.4.1	COG0855	Polyphosphate kinase	path:map00190, path:ec00190
+DLCOOICO_01395	CDS	372	kdgK_1	2.7.1.45		2-dehydro-3-deoxygluconokinase	path:map00030, path:ec00030, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_01398	CDS	471	dhaD	1.1.1.6		Glycerol dehydrogenase	path:map00561, path:ec00561, path:map00640, path:ec00640, path:map01100, path:ec01100
+DLCOOICO_01401	CDS	762	sseA	2.8.1.2	COG2897	3-mercaptopyruvate sulfurtransferase	path:map00270, path:ec00270, path:map01100, path:ec01100
+DLCOOICO_01404	CDS	759	phnP	3.1.4.55	COG1235	Phosphoribosyl 1,2-cyclic phosphate phosphodiesterase	path:map00440, path:ec00440, path:map01100, path:ec01100
+DLCOOICO_01408	CDS	369	dgkA	2.7.1.107	COG0818	Diacylglycerol kinase	path:map00561, path:ec00561, path:map00564, path:ec00564, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01411	CDS	456	fabZ	4.2.1.59	COG0764	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ	path:map00061, path:ec00061, path:map00780, path:ec00780, path:map01100, path:ec01100
+DLCOOICO_01412	CDS	264	lpxD	2.3.1.191	COG1044	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase	path:map00540, path:ec00540, path:map01100, path:ec01100
+DLCOOICO_01428	CDS	144	ubiD	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	path:map00130, path:ec00130, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01429	CDS	702	fre	1.5.1.41	COG0543	NAD(P)H-flavin reductase	path:map00740, path:ec00740, path:map01100, path:ec01100
+DLCOOICO_01430	CDS	252	fadA	2.3.1.16	COG0183	3-ketoacyl-CoA thiolase	path:map00062, path:ec00062, path:map00071, path:ec00071, path:map00280, path:ec00280, path:map00362, path:ec00362, path:map00592, path:ec00592, path:map00642, path:ec00642, path:map00907, path:ec00907, path:map01040, path:ec01040, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01449	CDS	678	yjjG	3.1.3.5	COG1011	Pyrimidine 5'-nucleotidase YjjG	path:map00230, path:ec00230, path:map00240, path:ec00240, path:map00760, path:ec00760, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01450	CDS	450	araD	5.1.3.4	COG0235	L-ribulose-5-phosphate 4-epimerase AraD	path:map00040, path:ec00040, path:map00053, path:ec00053, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_01457	CDS	525	gor	1.8.1.7	COG1249	Glutathione reductase	path:map00480, path:ec00480, path:map01100, path:ec01100
+DLCOOICO_01460	CDS	258	phoA	3.1.3.1	COG1785	Alkaline phosphatase	path:map00730, path:ec00730, path:map00790, path:ec00790, path:map01100, path:ec01100
+DLCOOICO_01463	CDS	939	cysN	2.7.7.4	COG2895	Sulfate adenylyltransferase subunit 1	path:map00230, path:ec00230, path:map00261, path:ec00261, path:map00450, path:ec00450, path:map00920, path:ec00920, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01466	CDS	510	iolG	1.1.1.18	COG0673	Myo-inositol 2-dehydrogenase	path:map00521, path:ec00521, path:map00562, path:ec00562, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01467	CDS	429	gabT	2.6.1.19	COG0160	4-aminobutyrate aminotransferase GabT	path:map00250, path:ec00250, path:map00410, path:ec00410, path:map00640, path:ec00640, path:map00650, path:ec00650, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_01478	CDS	1197	malP_2	2.4.1.1	COG0058	Maltodextrin phosphorylase	path:map00500, path:ec00500, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01500	CDS	726	kbl	2.3.1.29	COG0156	2-amino-3-ketobutyrate coenzyme A ligase	path:map00260, path:ec00260, path:map01100, path:ec01100
+DLCOOICO_01503	CDS	333	ppx	3.6.1.11	COG0248	Exopolyphosphatase	path:map00230, path:ec00230, path:map01100, path:ec01100
+DLCOOICO_01504	CDS	822	mdoB_1	2.7.8.20		Phosphoglycerol transferase I	path:map00552, path:ec00552, path:map00561, path:ec00561, path:map01100, path:ec01100
+DLCOOICO_01505	CDS	288	mdoB_2	2.7.8.20		Phosphoglycerol transferase I	path:map00552, path:ec00552, path:map00561, path:ec00561, path:map01100, path:ec01100
+DLCOOICO_01506	CDS	537	glpK	2.7.1.30		Glycerol kinase	path:map00561, path:ec00561, path:map01100, path:ec01100
+DLCOOICO_01507	CDS	519	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase	path:map00790, path:ec00790, path:map01100, path:ec01100
+DLCOOICO_01508	CDS	351	cysS_1	6.1.1.16	COG0215	Cysteine--tRNA ligase	path:map00970, path:ec00970
+DLCOOICO_01515	CDS	126	yfcF	2.5.1.18	COG0625	Glutathione S-transferase YfcF	path:map00480, path:ec00480, path:map00980, path:ec00980, path:map00982, path:ec00982, path:map00983, path:ec00983, path:map01100, path:ec01100
+DLCOOICO_01524	CDS	363	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase	path:map00908, path:ec00908, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01536	CDS	453	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase	path:map00261, path:ec00261, path:map00300, path:ec00300, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01539	CDS	891	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase	path:map00500, path:ec00500, path:map01100, path:ec01100
+DLCOOICO_01544	CDS	846	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase	path:map00730, path:ec00730, path:map00900, path:ec00900, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01548	CDS	675		3.1.3.3	COG0560	Phosphoserine phosphatase	path:map00260, path:ec00260, path:map00680, path:ec00680, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01551	CDS	642	lipB	2.3.1.181	COG0321	Octanoyltransferase	path:map00785, path:ec00785, path:map01100, path:ec01100
+DLCOOICO_01555	CDS	477	tpl	4.1.99.2		Tyrosine phenol-lyase	path:map00350, path:ec00350
+DLCOOICO_01556	CDS	165	iucC	6.3.2.39	COG4264	Aerobactin synthase	path:map00997, path:ec00997, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01558	CDS	900	manX_1	2.7.1.191	COG2893	PTS system mannose-specific EIIAB component	path:map00051, path:ec00051, path:map00520, path:ec00520, path:map01100, path:ec01100
+DLCOOICO_01572	CDS	690	ispU	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)	path:map00550, path:ec00550, path:map00900, path:ec00900, path:map01110, path:ec01110
+DLCOOICO_01573	CDS	234	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase	path:map00900, path:ec00900, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01575	CDS	849	apaH	3.6.1.41	COG0639	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical	path:map00230, path:ec00230, path:map01100, path:ec01100
+DLCOOICO_01580	CDS	180	argG	6.3.4.5	COG0137	Argininosuccinate synthase	path:map00220, path:ec00220, path:map00250, path:ec00250, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01583	CDS	159	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase	path:map00520, path:ec00520, path:map01100, path:ec01100
+DLCOOICO_01586	CDS	627	upp	2.4.2.9	COG0035	Uracil phosphoribosyltransferase	path:map00240, path:ec00240, path:map01100, path:ec01100
+DLCOOICO_01609	CDS	204	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase	path:map00040, path:ec00040, path:map00053, path:ec00053, path:map00520, path:ec00520, path:map00541, path:ec00541, path:map01100, path:ec01100
+DLCOOICO_01617	CDS	339	surE	3.1.3.5	COG0496	5'/3'-nucleotidase SurE	path:map00230, path:ec00230, path:map00240, path:ec00240, path:map00760, path:ec00760, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01622	CDS	495	ubiI	1.14.13.240	COG0654	2-octaprenylphenol hydroxylase	path:map00130, path:ec00130, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01625	CDS	672	argD	2.6.1.11	COG4992	Acetylornithine/succinyldiaminopimelate aminotransferase	path:map00220, path:ec00220, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01630	CDS	990	pdxA	1.1.1.262	COG1995	4-hydroxythreonine-4-phosphate dehydrogenase	path:map00750, path:ec00750, path:map01100, path:ec01100
+DLCOOICO_01639	CDS	591	bacC	1.1.1.385		Dihydroanticapsin 7-dehydrogenase	path:map00998, path:ec00998, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01643	CDS	135	galF	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase	path:map00040, path:ec00040, path:map00052, path:ec00052, path:map00500, path:ec00500, path:map00520, path:ec00520, path:map00541, path:ec00541, path:map00561, path:ec00561, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01668	CDS	498	msrC	1.8.4.14	COG1956	Free methionine-R-sulfoxide reductase	path:map00270, path:ec00270, path:map01100, path:ec01100
+DLCOOICO_01678	CDS	840	nrdA	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase 1 subunit alpha	path:map00230, path:ec00230, path:map00240, path:ec00240, path:map00480, path:ec00480, path:map00983, path:ec00983, path:map01100, path:ec01100
+DLCOOICO_01694	CDS	993	garK_1	2.7.1.165	COG1929	Glycerate 2-kinase	path:map00030, path:ec00030, path:map00260, path:ec00260, path:map00561, path:ec00561, path:map00630, path:ec00630, path:map00680, path:ec00680, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01700	CDS	984	bglA	3.2.1.86	COG2723	6-phospho-beta-glucosidase BglA	path:map00010, path:ec00010, path:map00500, path:ec00500
+DLCOOICO_01718	CDS	759	fabG_3	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG	path:map00061, path:ec00061, path:map00780, path:ec00780, path:map01100, path:ec01100
+DLCOOICO_01724	CDS	630	cyoE	2.5.1.141	COG0109	Protoheme IX farnesyltransferase	path:map00860, path:ec00860, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01730	CDS	759	gph	3.1.3.18	COG0546	Phosphoglycolate phosphatase	path:map00630, path:ec00630, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01740	CDS	663	katA	1.11.1.6	COG0753	Catalase	path:map00380, path:ec00380, path:map00630, path:ec00630, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01741	CDS	390	menE	6.2.1.26	COG0318	2-succinylbenzoate--CoA ligase	path:map00130, path:ec00130, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01744	CDS	159	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit	path:map00020, path:ec00020, path:map00190, path:ec00190, path:map00620, path:ec00620, path:map00650, path:ec00650, path:map00720, path:ec00720, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01752	CDS	171	uxuA_2	4.2.1.8	COG1312	Mannonate dehydratase	path:map00040, path:ec00040, path:map01100, path:ec01100
+DLCOOICO_01762	CDS	396	ispA	2.5.1.10	COG0142	Farnesyl diphosphate synthase	path:map00900, path:ec00900, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01769	CDS	405	tdcD	2.7.2.15	COG0282	Propionate kinase	path:map00640, path:ec00640, path:map01100, path:ec01100
+DLCOOICO_01785	CDS	432	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase	path:map00230, path:ec00230, path:map00240, path:ec00240, path:map00983, path:ec00983, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01787	CDS	573	thiF	2.7.7.73	COG0476	Sulfur carrier protein ThiS adenylyltransferase	path:map00730, path:ec00730, path:map01100, path:ec01100
+DLCOOICO_01791	CDS	576	mdh_2	1.1.1.244		NAD-dependent methanol dehydrogenase	path:map00680, path:ec00680, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_01795	CDS	363	folX	5.1.99.7	COG1539	Dihydroneopterin triphosphate 2'-epimerase	path:map00790, path:ec00790
+DLCOOICO_01798	CDS	645	patA	2.6.1.82	COG4992	Putrescine aminotransferase	path:map00310, path:ec00310, path:map00330, path:ec00330, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_01803	CDS	699	metG	6.1.1.10	COG0073	Methionine--tRNA ligase	path:map00450, path:ec00450, path:map00970, path:ec00970, path:map01100, path:ec01100
+DLCOOICO_01804	CDS	663	otsA	2.4.1.15	COG0380	Trehalose-6-phosphate synthase	path:map00500, path:ec00500, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01808	CDS	1014	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase	path:map00540, path:ec00540, path:map01100, path:ec01100
+DLCOOICO_01810	CDS	303	ppnP	2.4.2.1	COG3123	Pyrimidine/purine nucleoside phosphorylase	path:map00230, path:ec00230, path:map00760, path:ec00760, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01816	CDS	309	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase	path:map00970, path:ec00970, path:map01100, path:ec01100
+DLCOOICO_01817	CDS	855	ldcC	4.1.1.18	COG1982	Constitutive lysine decarboxylase	path:map00310, path:ec00310, path:map00960, path:ec00960, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01818	CDS	552	mqo	1.1.5.4	COG0579	Malate:quinone oxidoreductase	path:map00020, path:ec00020, path:map00620, path:ec00620, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01832	CDS	303	ureA	3.5.1.5		Urease subunit gamma	path:map00220, path:ec00220, path:map00230, path:ec00230, path:map00791, path:ec00791, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_01835	CDS	789	edcC	4.1.1.61	COG0043	Phenolic acid decarboxylase	path:map00627, path:ec00627, path:map01120, path:ec01120
+DLCOOICO_01849	CDS	492	ecdB	2.5.1.129	COG0163	putative UbiX-like flavin prenyltransferase	path:map00740, path:ec00740, path:map01100, path:ec01100
+DLCOOICO_01855	CDS	279	proS	6.1.1.15	COG0442	Proline--tRNA ligase	path:map00970, path:ec00970
+DLCOOICO_01858	CDS	219	bglH_1	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglH	path:map00010, path:ec00010, path:map00500, path:ec00500
+DLCOOICO_01866	CDS	1014	cpdB	3.1.3.6	COG0737	2',3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase	path:map00230, path:ec00230, path:map00240, path:ec00240, path:map01100, path:ec01100
+DLCOOICO_01875	CDS	633	fliI_1	7.1.2.2	COG1157	Flagellum-specific ATP synthase	path:map00190, path:ec00190, path:map00195, path:ec00195, path:map01100, path:ec01100
+DLCOOICO_01878	CDS	720	talB	2.2.1.2	COG0176	Transaldolase B	path:map00030, path:ec00030, path:map00710, path:ec00710, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01880	CDS	717	yigB	3.1.3.104	COG1011	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB	path:map00740, path:ec00740, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_01907	CDS	234	ybdK	6.3.2.2	COG2170	Putative glutamate--cysteine ligase 2	path:map00270, path:ec00270, path:map00480, path:ec00480, path:map01100, path:ec01100
+DLCOOICO_01915	CDS	378	alr	5.1.1.1	COG0787	Alanine racemase, biosynthetic	path:map00470, path:ec00470, path:map01100, path:ec01100
+DLCOOICO_01917	CDS	234	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase	path:map00860, path:ec00860, path:map01100, path:ec01100
+DLCOOICO_01921	CDS	456	lpxC	3.5.1.108	COG0774	UDP-3-O-acyl-N-acetylglucosamine deacetylase	path:map00540, path:ec00540, path:map01100, path:ec01100
+DLCOOICO_01938	CDS	312	gshA	6.3.2.2	COG2918	Glutamate--cysteine ligase	path:map00270, path:ec00270, path:map00480, path:ec00480, path:map01100, path:ec01100
+DLCOOICO_01939	CDS	516	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase	path:map00270, path:ec00270, path:map01100, path:ec01100
+DLCOOICO_01943	CDS	510	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase	path:map00520, path:ec00520, path:map00550, path:ec00550, path:map01100, path:ec01100
+DLCOOICO_01957	CDS	210	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC	path:map00540, path:ec00540, path:map01100, path:ec01100
+DLCOOICO_01970	CDS	354	glpX	3.1.3.11	COG1494	Fructose-1,6-bisphosphatase 1 class 2	path:map00010, path:ec00010, path:map00030, path:ec00030, path:map00051, path:ec00051, path:map00680, path:ec00680, path:map00710, path:ec00710, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_01974	CDS	108	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase	path:map00270, path:ec00270, path:map01100, path:ec01100
+DLCOOICO_01978	CDS	762	pta	2.3.1.8	COG0280	Phosphate acetyltransferase	path:map00430, path:ec00430, path:map00620, path:ec00620, path:map00640, path:ec00640, path:map00680, path:ec00680, path:map00720, path:ec00720, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_01979	CDS	216	pflB	2.3.1.54	COG1882	Formate acetyltransferase 1	path:map00620, path:ec00620, path:map00640, path:ec00640, path:map00650, path:ec00650, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_01983	CDS	354	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase	path:map00230, path:ec00230, path:map00250, path:ec00250, path:map01100, path:ec01100
+DLCOOICO_01990	CDS	510	RBKS	2.7.1.15		Ribokinase	path:map00030, path:ec00030, path:map01100, path:ec01100
+DLCOOICO_01997	CDS	192	pdxB	1.1.1.290	COG0111	Erythronate-4-phosphate dehydrogenase	path:map00750, path:ec00750, path:map01100, path:ec01100
+DLCOOICO_01999	CDS	357	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase	path:map00790, path:ec00790, path:map01100, path:ec01100
+DLCOOICO_02000	CDS	480	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase	path:map00770, path:ec00770
+DLCOOICO_02001	CDS	876	ansB	3.5.1.1	COG0252	L-asparaginase 2	path:map00250, path:ec00250, path:map00460, path:ec00460, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02014	CDS	717	dacD	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacD	path:map00550, path:ec00550
+DLCOOICO_02051	CDS	693	pssA	2.7.8.8	COG1502	CDP-diacylglycerol--serine O-phosphatidyltransferase	path:map00260, path:ec00260, path:map00564, path:ec00564, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02073	CDS	498	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase	path:map00220, path:ec00220, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02075	CDS	792	pckA	4.1.1.49	COG1866	Phosphoenolpyruvate carboxykinase (ATP)	path:map00010, path:ec00010, path:map00020, path:ec00020, path:map00620, path:ec00620, path:map00710, path:ec00710, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_02083	CDS	228	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)	path:map00900, path:ec00900, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02091	CDS	693	eutB	4.3.1.7	COG4303	Ethanolamine ammonia-lyase heavy chain	path:map00564, path:ec00564, path:map01100, path:ec01100
+DLCOOICO_02095	CDS	753	nagD	3.1.3.5	COG0647	Ribonucleotide monophosphatase NagD	path:map00230, path:ec00230, path:map00240, path:ec00240, path:map00760, path:ec00760, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02097	CDS	270	rdgB	3.6.1.66	COG0127	dITP/XTP pyrophosphatase	path:map00230, path:ec00230, path:map00983, path:ec00983, path:map01100, path:ec01100
+DLCOOICO_02107	CDS	612	acuI	1.3.1.84	COG0604	putative acrylyl-CoA reductase AcuI	path:map00720, path:ec00720, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_02122	CDS	717	hcp	1.7.99.1	COG1151	Hydroxylamine reductase	path:map00910, path:ec00910, path:map01100, path:ec01100
+DLCOOICO_02136	CDS	834	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	path:map00520, path:ec00520, path:map00550, path:ec00550, path:map01100, path:ec01100
+DLCOOICO_02138	CDS	333	menH	4.2.99.20	COG0596	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase	path:map00130, path:ec00130, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02144	CDS	630	acs_2	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase	path:map00010, path:ec00010, path:map00620, path:ec00620, path:map00630, path:ec00630, path:map00640, path:ec00640, path:map00680, path:ec00680, path:map00720, path:ec00720, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_02164	CDS	693	nrdF	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase 2 subunit beta	path:map00230, path:ec00230, path:map00240, path:ec00240, path:map00480, path:ec00480, path:map00983, path:ec00983, path:map01100, path:ec01100
+DLCOOICO_02167	CDS	453	ddlB	6.3.2.4	COG1181	D-alanine--D-alanine ligase B	path:map00470, path:ec00470, path:map00550, path:ec00550, path:map01100, path:ec01100
+DLCOOICO_02181	CDS	546	metB	2.5.1.48	COG0626	Cystathionine gamma-synthase	path:map00270, path:ec00270, path:map00450, path:ec00450, path:map00920, path:ec00920, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02198	CDS	711	gutQ	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase GutQ	path:map00540, path:ec00540, path:map01100, path:ec01100
+DLCOOICO_02222	CDS	828	fliI_2	7.1.2.2	COG1157	Flagellum-specific ATP synthase	path:map00190, path:ec00190, path:map00195, path:ec00195, path:map01100, path:ec01100
+DLCOOICO_02225	CDS	354	alaC	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaC	path:map00220, path:ec00220, path:map00250, path:ec00250, path:map00710, path:ec00710, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_02229	CDS	768	cysJ	1.8.1.2	COG0369	Sulfite reductase [NADPH] flavoprotein alpha-component	path:map00920, path:ec00920, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_02235	CDS	237	treF	3.2.1.28	COG1626	Cytoplasmic trehalase	path:map00500, path:ec00500, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02248	CDS	615	cysK	2.5.1.47	COG0031	Cysteine synthase A	path:map00270, path:ec00270, path:map00920, path:ec00920, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_02251	CDS	402	eutC	4.3.1.7	COG4302	Ethanolamine ammonia-lyase light chain	path:map00564, path:ec00564, path:map01100, path:ec01100
+DLCOOICO_02255	CDS	615	thiC	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase	path:map00730, path:ec00730, path:map01100, path:ec01100
+DLCOOICO_02282	CDS	486	dhaK	2.7.1.121	COG2376	PEP-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK	path:map00561, path:ec00561, path:map01100, path:ec01100
+DLCOOICO_02291	CDS	423	iucB	2.3.1.102		N(6)-hydroxylysine O-acetyltransferase	path:map00997, path:ec00997, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_02295	CDS	675	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase	path:map00230, path:ec00230, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02298	CDS	381	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase	path:map00340, path:ec00340, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02308	CDS	375	amn	3.2.2.4	COG0775	AMP nucleosidase	path:map00230, path:ec00230, path:map01100, path:ec01100
+DLCOOICO_02325	CDS	471	pepA_1	3.4.11.1	COG0260	Cytosol aminopeptidase	path:map00480, path:ec00480, path:map01100, path:ec01100
+DLCOOICO_02356	CDS	645	phnJ	4.7.1.1	COG3627	Alpha-D-ribose 1-methylphosphonate 5-phosphate C-P lyase	path:map00440, path:ec00440, path:map01100, path:ec01100
+DLCOOICO_02357	CDS	171	proB	2.7.2.11	COG0263	Glutamate 5-kinase	path:map00330, path:ec00330, path:map00332, path:ec00332, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02363	CDS	504	deoD	2.4.2.1		Purine nucleoside phosphorylase DeoD-type	path:map00230, path:ec00230, path:map00760, path:ec00760, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02367	CDS	720	thiH	4.1.99.19	COG1060	2-iminoacetate synthase	path:map00730, path:ec00730, path:map01100, path:ec01100
+DLCOOICO_02369	CDS	324	speF	4.1.1.17	COG1982	Inducible ornithine decarboxylase	path:map00330, path:ec00330, path:map00480, path:ec00480, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02377	CDS	516	dgt	3.1.5.1	COG0232	Deoxyguanosinetriphosphate triphosphohydrolase	path:map00230, path:ec00230, path:map01100, path:ec01100
+DLCOOICO_02386	CDS	189	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase	path:map00230, path:ec00230, path:map01100, path:ec01100
+DLCOOICO_02395	CDS	711	uxaC_1	5.3.1.12	COG1904	Uronate isomerase	path:map00040, path:ec00040, path:map01100, path:ec01100
+DLCOOICO_02397	CDS	615	dgoA	4.1.2.21	COG0800	2-dehydro-3-deoxy-6-phosphogalactonate aldolase	path:map00052, path:ec00052, path:map01100, path:ec01100
+DLCOOICO_02398	CDS	543	mtnD	1.13.11.54	COG1791	Acireductone dioxygenase	path:map00270, path:ec00270, path:map01100, path:ec01100
+DLCOOICO_02410	CDS	129	deoB	5.4.2.7	COG1015	Phosphopentomutase	path:map00030, path:ec00030, path:map00230, path:ec00230, path:map01100, path:ec01100
+DLCOOICO_02414	CDS	567	chrR	1.6.5.2	COG0431	Quinone reductase	path:map00130, path:ec00130, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02416	CDS	606	cbiE	2.1.1.289	COG2241	Cobalt-precorrin-7 C(5)-methyltransferase	path:map00860, path:ec00860, path:map01100, path:ec01100
+DLCOOICO_02438	CDS	285	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase	path:map00230, path:ec00230, path:map00670, path:ec00670, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02448	CDS	585	cbs	4.2.1.22	COG0031	Putative cystathionine beta-synthase	path:map00260, path:ec00260, path:map00270, path:ec00270, path:map00670, path:ec00670, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02449	CDS	513	rbsK	2.7.1.15	COG0524	Ribokinase	path:map00030, path:ec00030, path:map01100, path:ec01100
+DLCOOICO_02451	CDS	579	eptB	2.7.8.42	COG2194	Kdo(2)-lipid A phosphoethanolamine 7''-transferase	path:map00540, path:ec00540
+DLCOOICO_02465	CDS	276	xylB_2	2.7.1.17	COG1070	Xylulose kinase	path:map00040, path:ec00040, path:map01100, path:ec01100
+DLCOOICO_02490	CDS	186	prpB	4.1.3.30	COG2513	2-methylisocitrate lyase	path:map00640, path:ec00640, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_02506	CDS	717	araA	5.3.1.4	COG2160	L-arabinose isomerase	path:map00040, path:ec00040, path:map01100, path:ec01100
+DLCOOICO_02518	CDS	672	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1	path:map00790, path:ec00790
+DLCOOICO_02524	CDS	243	gltB	1.4.1.13	COG0067	Glutamate synthase [NADPH] large chain	path:map00250, path:ec00250, path:map00910, path:ec00910, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_02526	CDS	426	can	4.2.1.1	COG0288	Carbonic anhydrase 2	path:map00910, path:ec00910, path:map01100, path:ec01100
+DLCOOICO_02530	CDS	411	menD	2.2.1.9	COG1165	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase	path:map00130, path:ec00130, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02539	CDS	234	maeB	1.1.1.40	COG0280	NADP-dependent malic enzyme	path:map00620, path:ec00620, path:map00710, path:ec00710, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_02541	CDS	696	eno	4.2.1.11	COG0148	Enolase	path:map00010, path:ec00010, path:map00680, path:ec00680, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_02543	CDS	399	glpQ	3.1.4.46	COG0584	Glycerophosphodiester phosphodiesterase, periplasmic	path:map00564, path:ec00564
+DLCOOICO_02554	CDS	612	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase	path:map00970, path:ec00970
+DLCOOICO_02555	CDS	300	aroQ	4.2.1.10	COG0757	3-dehydroquinate dehydratase	path:map00400, path:ec00400, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02557	CDS	255	cysC	2.7.1.25	COG0529	Adenylyl-sulfate kinase	path:map00230, path:ec00230, path:map00920, path:ec00920, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_02558	CDS	537	aspS	6.1.1.12	COG0173	Aspartate--tRNA ligase	path:map00970, path:ec00970
+DLCOOICO_02572	CDS	123	ldhA	1.1.1.28	COG1052	D-lactate dehydrogenase	path:map00620, path:ec00620, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_02574	CDS	750	ppsA	2.7.9.2	COG0574	Phosphoenolpyruvate synthase	path:map00010, path:ec00010, path:map00620, path:ec00620, path:map00680, path:ec00680, path:map00720, path:ec00720, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_02576	CDS	534	ulaD	4.1.1.85	COG0269	3-keto-L-gulonate-6-phosphate decarboxylase UlaD	path:map00040, path:ec00040, path:map00053, path:ec00053, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_02578	CDS	417	manX_2	2.7.1.191	COG2893	PTS system mannose-specific EIIAB component	path:map00051, path:ec00051, path:map00520, path:ec00520, path:map01100, path:ec01100
+DLCOOICO_02579	CDS	402	hisI	3.5.4.19		Phosphoribosyl-AMP cyclohydrolase	path:map00340, path:ec00340, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02580	CDS	264	glnA	6.3.1.2	COG0174	Glutamine synthetase	path:map00220, path:ec00220, path:map00250, path:ec00250, path:map00630, path:ec00630, path:map00910, path:ec00910, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_02583	CDS	648	mmuM	2.1.1.10	COG2040	Homocysteine S-methyltransferase	path:map00270, path:ec00270, path:map00670, path:ec00670, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02584	CDS	396	ppa	3.6.1.1	COG0221	Inorganic pyrophosphatase	path:map00190, path:ec00190
+DLCOOICO_02590	CDS	558	cysQ	3.1.3.7	COG1218	3'(2'),5'-bisphosphate nucleotidase CysQ	path:map00920, path:ec00920, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_02591	CDS	687	clcD	3.1.1.45		Carboxymethylenebutenolidase	path:map00361, path:ec00361, path:map00364, path:ec00364, path:map00623, path:ec00623, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_02593	CDS	591	fabD	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase	path:map00061, path:ec00061, path:map00074, path:ec00074, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02603	CDS	375	ipdC	4.1.1.74	COG3961	Indole-3-pyruvate decarboxylase	path:map00380, path:ec00380, path:map01100, path:ec01100
+DLCOOICO_02617	CDS	672	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase	path:map00970, path:ec00970
+DLCOOICO_02618	CDS	414	kduI	5.3.1.17	COG3717	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase	path:map00040, path:ec00040, path:map01100, path:ec01100
+DLCOOICO_02627	CDS	288	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase	path:map00860, path:ec00860, path:map01100, path:ec01100
+DLCOOICO_02635	CDS	192	lipA	2.8.1.8	COG0320	Lipoyl synthase	path:map00785, path:ec00785, path:map01100, path:ec01100
+DLCOOICO_02637	CDS	627	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase	path:map00550, path:ec00550, path:map01100, path:ec01100
+DLCOOICO_02641	CDS	393	nadC	2.4.2.19	COG0157	Nicotinate-nucleotide pyrophosphorylase [carboxylating]	path:map00760, path:ec00760, path:map01100, path:ec01100
+DLCOOICO_02653	CDS	630	iolD	3.7.1.22	COG3962	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase	path:map00562, path:ec00562, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_02664	CDS	321	yhdE	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase	path:map00230, path:ec00230, path:map00240, path:ec00240, path:map00500, path:ec00500, path:map00740, path:ec00740, path:map00760, path:ec00760, path:map00770, path:ec00770, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02676	CDS	630	cah	4.2.1.1	COG3338	Carbonic anhydrase	path:map00910, path:ec00910, path:map01100, path:ec01100
+DLCOOICO_02684	CDS	417	pphA	3.1.3.16	COG0639	Serine/threonine-protein phosphatase 1	path:map05235
+DLCOOICO_02697	CDS	243	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase	path:map00074, path:ec00074, path:map00770, path:ec00770, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02707	CDS	300	pgm	5.4.2.2	COG0033	Phosphoglucomutase	path:map00010, path:ec00010, path:map00030, path:ec00030, path:map00052, path:ec00052, path:map00230, path:ec00230, path:map00500, path:ec00500, path:map00520, path:ec00520, path:map00521, path:ec00521, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_02714	CDS	468	malP_3	2.4.1.1	COG0058	Maltodextrin phosphorylase	path:map00500, path:ec00500, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02728	CDS	174	rffH	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase 2	path:map00521, path:ec00521, path:map00523, path:ec00523, path:map00525, path:ec00525, path:map00541, path:ec00541, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02733	CDS	216	tdcG_2	4.3.1.17	COG1760	L-serine dehydratase TdcG	path:map00260, path:ec00260, path:map00270, path:ec00270, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02738	CDS	606	proA	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase	path:map00330, path:ec00330, path:map00332, path:ec00332, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02742	CDS	435		4.3.1.2		Methylaspartate ammonia-lyase	path:map00630, path:ec00630, path:map00660, path:ec00660, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_02745	CDS	504	ybhA	3.1.3.74	COG0561	Pyridoxal phosphate phosphatase YbhA	path:map00750, path:ec00750, path:map01100, path:ec01100
+DLCOOICO_02773	CDS	366	ttdB	4.2.1.32	COG1838	L(+)-tartrate dehydratase subunit beta	path:map00630, path:ec00630, path:map01100, path:ec01100
+DLCOOICO_02808	CDS	237	katG	1.11.1.21	COG0376	Catalase-peroxidase	path:map00360, path:ec00360, path:map00380, path:ec00380, path:map00940, path:ec00940, path:map00983, path:ec00983, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02809	CDS	282	gldA	1.1.1.6	COG0371	Glycerol dehydrogenase	path:map00561, path:ec00561, path:map00640, path:ec00640, path:map01100, path:ec01100
+DLCOOICO_02829	CDS	450	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase	path:map00970, path:ec00970
+DLCOOICO_02833	CDS	333	pyrD	1.3.5.2	COG0167	Dihydroorotate dehydrogenase (quinone)	path:map00240, path:ec00240, path:map01100, path:ec01100
+DLCOOICO_02857	CDS	420	fabA	4.2.1.59	COG0764	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase	path:map00061, path:ec00061, path:map00780, path:ec00780, path:map01100, path:ec01100
+DLCOOICO_02863	CDS	354	kbaY	4.1.2.40	COG0191	D-tagatose-1,6-bisphosphate aldolase subunit KbaY	path:map00052, path:ec00052, path:map01100, path:ec01100
+DLCOOICO_02868	CDS	189	kdgK_2	2.7.1.45	COG0524	2-dehydro-3-deoxygluconokinase	path:map00030, path:ec00030, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_02890	CDS	330	uxaC_2	5.3.1.12	COG1904	Uronate isomerase	path:map00040, path:ec00040, path:map01100, path:ec01100
+DLCOOICO_02907	CDS	420	fadI	2.3.1.16	COG0183	3-ketoacyl-CoA thiolase FadI	path:map00062, path:ec00062, path:map00071, path:ec00071, path:map00280, path:ec00280, path:map00362, path:ec00362, path:map00592, path:ec00592, path:map00642, path:ec00642, path:map00907, path:ec00907, path:map01040, path:ec01040, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_02922	CDS	300	gpsA	1.1.1.94	COG0240	Glycerol-3-phosphate dehydrogenase [NAD(P)+]	path:map00564, path:ec00564, path:map01110, path:ec01110
+DLCOOICO_02925	CDS	225	aroK	2.7.1.71	COG0703	Shikimate kinase 1	path:map00400, path:ec00400, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_02932	CDS	495	pduE	4.2.1.28	COG4910	Propanediol dehydratase small subunit	path:map00640, path:ec00640, path:map01100, path:ec01100
+DLCOOICO_02934	CDS	498	poxB	1.2.5.1	COG0028	Pyruvate dehydrogenase [ubiquinone]	path:map00620, path:ec00620, path:map01100, path:ec01100
+DLCOOICO_02954	CDS	297	cbiT	2.1.1.196	COG2242	Cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)	path:map00860, path:ec00860, path:map01100, path:ec01100
+DLCOOICO_02956	CDS	135	moaA	4.1.99.22	COG2896	GTP 3',8-cyclase	path:map00790, path:ec00790, path:map01100, path:ec01100
+DLCOOICO_02971	CDS	123	pagP	2.3.1.251		Lipid A palmitoyltransferase PagP	path:map00540, path:ec00540
+DLCOOICO_02973	CDS	495	ulaE_2	5.1.3.22	COG3623	L-ribulose-5-phosphate 3-epimerase UlaE	path:map00040, path:ec00040, path:map00053, path:ec00053, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_02984	CDS	393	thiI	2.8.1.4	COG0301	tRNA sulfurtransferase	path:map00730, path:ec00730, path:map01100, path:ec01100
+DLCOOICO_02988	CDS	264	fadD	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase	path:map00061, path:ec00061, path:map00071, path:ec00071, path:map01100, path:ec01100
+DLCOOICO_03007	CDS	129	tal	2.2.1.2		Transaldolase	path:map00030, path:ec00030, path:map00710, path:ec00710, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_03023	CDS	519	entA	1.3.1.28	COG1028	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase	path:map01053, path:ec01053, path:map01110, path:ec01110
+DLCOOICO_03033	CDS	510	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase	path:map00230, path:ec00230, path:map00250, path:ec00250, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_03035	CDS	183	prr	1.2.1.19	COG1012	Gamma-aminobutyraldehyde dehydrogenase	path:map00310, path:ec00310, path:map00330, path:ec00330, path:map00410, path:ec00410, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_03040	CDS	204	lpxP	2.3.1.242	COG1560	Lipid A biosynthesis palmitoleoyltransferase	path:map00540, path:ec00540
+DLCOOICO_03045	CDS	570	cysD	2.7.7.4	COG0175	Sulfate adenylyltransferase subunit 2	path:map00230, path:ec00230, path:map00261, path:ec00261, path:map00450, path:ec00450, path:map00920, path:ec00920, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_03046	CDS	489	adk	2.7.4.3	COG0563	Adenylate kinase	path:map00230, path:ec00230, path:map00730, path:ec00730, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_03048	CDS	561	aceE	1.2.4.1	COG2609	Pyruvate dehydrogenase E1 component	path:map00010, path:ec00010, path:map00020, path:ec00020, path:map00620, path:ec00620, path:map00785, path:ec00785, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_03049	CDS	471	acpH	3.1.4.14	COG3124	Acyl carrier protein phosphodiesterase	path:map00770, path:ec00770, path:map01100, path:ec01100
+DLCOOICO_03059	CDS	543	speC	4.1.1.17	COG1982	Constitutive ornithine decarboxylase	path:map00330, path:ec00330, path:map00480, path:ec00480, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_03073	CDS	543	cfxP	2.7.1.19	COG3954	Phosphoribulokinase, plasmid	path:map00710, path:ec00710, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_03074	CDS	375	fdhF_2	1.17.1.9	COG0243	Formate dehydrogenase H	path:map00630, path:ec00630, path:map00680, path:ec00680, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_03080	CDS	408	folP	2.5.1.15	COG0294	Dihydropteroate synthase	path:map00790, path:ec00790, path:map01100, path:ec01100
+DLCOOICO_03091	CDS	129	dapD	2.3.1.117	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase	path:map00300, path:ec00300, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_03105	CDS	495	nanA	4.1.3.3	COG0329	N-acetylneuraminate lyase	path:map00520, path:ec00520, path:map01100, path:ec01100
+DLCOOICO_03112	CDS	552	ugpQ	3.1.4.46	COG0584	Glycerophosphodiester phosphodiesterase, cytoplasmic	path:map00564, path:ec00564
+DLCOOICO_03119	CDS	516	gmhB	3.1.3.82	COG0241	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase	path:map00540, path:ec00540, path:map01100, path:ec01100
+DLCOOICO_03139	CDS	396	thiG	2.8.1.10	COG2022	Thiazole synthase	path:map00730, path:ec00730, path:map01100, path:ec01100
+DLCOOICO_03141	CDS	393	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase	path:map00230, path:ec00230, path:map00983, path:ec00983, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_03144	CDS	465	bioH	3.1.1.85	COG0596	Pimeloyl-[acyl-carrier protein] methyl ester esterase	path:map00780, path:ec00780, path:map01100, path:ec01100
+DLCOOICO_03181	CDS	261	murQ_1	4.2.1.126	COG2103	N-acetylmuramic acid 6-phosphate etherase	path:map00520, path:ec00520, path:map01100, path:ec01100
+DLCOOICO_03184	CDS	306	fbaB	4.1.2.13	COG1830	Fructose-bisphosphate aldolase class 1	path:map00010, path:ec00010, path:map00030, path:ec00030, path:map00051, path:ec00051, path:map00680, path:ec00680, path:map00710, path:ec00710, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_03187	CDS	228	dcd	3.5.4.13	COG0717	dCTP deaminase	path:map00240, path:ec00240, path:map01100, path:ec01100
+DLCOOICO_03192	CDS	543	mhbM	1.14.13.24	COG0654	3-hydroxybenzoate 6-hydroxylase	path:map00362, path:ec00362, path:map01120, path:ec01120
+DLCOOICO_03204	CDS	330	garK_2	2.7.1.165	COG1929	Glycerate 2-kinase	path:map00030, path:ec00030, path:map00260, path:ec00260, path:map00561, path:ec00561, path:map00630, path:ec00630, path:map00680, path:ec00680, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_03210	CDS	267	pduW	2.7.2.15	COG0282	putative propionate kinase	path:map00640, path:ec00640, path:map01100, path:ec01100
+DLCOOICO_03214	CDS	225	hutI	3.5.2.7	COG1228	Imidazolonepropionase	path:map00340, path:ec00340, path:map01100, path:ec01100
+DLCOOICO_03256	CDS	522	tnaA	4.1.99.1		Tryptophanase	path:map00380, path:ec00380, path:map01100, path:ec01100
+DLCOOICO_03260	CDS	468	aroC	4.2.3.5	COG0082	Chorismate synthase	path:map00400, path:ec00400, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_03262	CDS	183	ftsI	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase FtsI	path:map00550, path:ec00550
+DLCOOICO_03276	CDS	264	uxaA	4.2.1.7	COG2721	Altronate dehydratase	path:map00040, path:ec00040, path:map01100, path:ec01100
+DLCOOICO_03291	CDS	192	bioF	2.3.1.47		8-amino-7-oxononanoate synthase	path:map00780, path:ec00780, path:map01100, path:ec01100
+DLCOOICO_03292	CDS	126	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase	path:map00270, path:ec00270, path:map00670, path:ec00670, path:map00999, path:ec00999, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_03295	CDS	318	ilvI	2.2.1.6	COG0028	Acetolactate synthase isozyme 3 large subunit	path:map00290, path:ec00290, path:map00650, path:ec00650, path:map00660, path:ec00660, path:map00770, path:ec00770, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_03300	CDS	252	xecA1	4.4.1.23		2-hydroxypropyl-CoM lyase	path:map00625, path:ec00625, path:map01120, path:ec01120
+DLCOOICO_03303	CDS	333	gsk	2.7.1.73	COG0524	Inosine-guanosine kinase	path:map00230, path:ec00230, path:map01100, path:ec01100
+DLCOOICO_03304	CDS	396	cysM	2.5.1.47	COG0031	Cysteine synthase B	path:map00270, path:ec00270, path:map00920, path:ec00920, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_03310	CDS	384	ghrB	1.1.1.79	COG1052	Glyoxylate/hydroxypyruvate reductase B	path:map00620, path:ec00620, path:map00630, path:ec00630, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_03332	CDS	267	menB	4.1.3.36	COG0447	1,4-dihydroxy-2-naphthoyl-CoA synthase	path:map00130, path:ec00130, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_03336	CDS	129	cobT	2.4.2.21	COG2038	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase	path:map00860, path:ec00860, path:map01100, path:ec01100
+DLCOOICO_03337	CDS	363	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase	path:map00400, path:ec00400, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_03343	CDS	435	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase	path:map00860, path:ec00860, path:map01100, path:ec01100
+DLCOOICO_03352	CDS	174	gudD	4.2.1.40	COG4948	Glucarate dehydratase	path:map00053, path:ec00053, path:map01100, path:ec01100
+DLCOOICO_03359	CDS	429	ygiD	1.13.11.29	COG3384	4,5-DOPA dioxygenase extradiol	path:map00350, path:ec00350
+DLCOOICO_03364	CDS	294		3.2.1.55	COG3940	Extracellular exo-alpha-(1->5)-L-arabinofuranosidase	path:map00520, path:ec00520, path:map01100, path:ec01100
+DLCOOICO_03374	CDS	351	gap_2	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase	path:map00010, path:ec00010, path:map00710, path:ec00710, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_03380	CDS	171	alsK	2.7.1.55	COG1940	D-allose kinase	path:map00051, path:ec00051, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_03406	CDS	456	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase	path:map00550, path:ec00550, path:map00552, path:ec00552
+DLCOOICO_03410	CDS	351	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain	path:map00260, path:ec00260, path:map00400, path:ec00400, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_03413	CDS	228	pxpC	3.5.2.9	COG1984	5-oxoprolinase subunit C	path:map00480, path:ec00480, path:map01100, path:ec01100
+DLCOOICO_03414	CDS	441	pepA_2	3.4.11.1	COG0260	Cytosol aminopeptidase	path:map00480, path:ec00480, path:map01100, path:ec01100
+DLCOOICO_03426	CDS	123	betB	1.2.1.8	COG1012	NAD/NADP-dependent betaine aldehyde dehydrogenase	path:map00260, path:ec00260, path:map00670, path:ec00670, path:map01100, path:ec01100
+DLCOOICO_03427	CDS	204	entE	6.3.2.14	COG1021	Enterobactin synthase component E	path:map01053, path:ec01053, path:map01110, path:ec01110
+DLCOOICO_03433	CDS	297	phnG	2.7.8.37	COG3624	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnG	path:map00440, path:ec00440, path:map01100, path:ec01100
+DLCOOICO_03442	CDS	234	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase	path:map00290, path:ec00290, path:map00620, path:ec00620, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_03444	CDS	279	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase	path:map00340, path:ec00340, path:map00350, path:ec00350, path:map00360, path:ec00360, path:map00400, path:ec00400, path:map00401, path:ec00401, path:map00960, path:ec00960, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_03450	CDS	426	fucO	1.1.1.77	COG1454	Lactaldehyde reductase	path:map00630, path:ec00630, path:map00640, path:ec00640, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_03459	CDS	240	astC	2.6.1.81	COG4992	Succinylornithine transaminase	path:map00330, path:ec00330, path:map01100, path:ec01100
+DLCOOICO_03461	CDS	240	speG	2.3.1.57	COG1670	Spermidine N(1)-acetyltransferase	path:map00330, path:ec00330, path:map01100, path:ec01100
+DLCOOICO_03477	CDS	294	galM	5.1.3.3	COG2017	Aldose 1-epimerase	path:map00010, path:ec00010, path:map00052, path:ec00052, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_03482	CDS	366	argA	2.3.1.1	COG0548	Amino-acid acetyltransferase	path:map00220, path:ec00220, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_03491	CDS	438	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase	path:map00860, path:ec00860, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_03521	CDS	336	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase	path:map00970, path:ec00970
+DLCOOICO_03525	CDS	192	cobD	4.1.1.81	COG0079	Threonine-phosphate decarboxylase	path:map00860, path:ec00860, path:map01100, path:ec01100
+DLCOOICO_03527	CDS	144	psuG	4.2.1.70	COG2313	Pseudouridine-5'-phosphate glycosidase	path:map00240, path:ec00240, path:map01100, path:ec01100
+DLCOOICO_03528	CDS	144	wecD	2.3.1.210	COG0454	dTDP-fucosamine acetyltransferase	path:map00541, path:ec00541, path:map01100, path:ec01100
+DLCOOICO_03530	CDS	429	mmgB	1.1.1.157	COG1250	putative 3-hydroxybutyryl-CoA dehydrogenase	path:map00360, path:ec00360, path:map00362, path:ec00362, path:map00650, path:ec00650, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_03531	CDS	294	bcrD	1.3.7.8		Benzoyl-CoA reductase subunit D	path:map00362, path:ec00362, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_03532	CDS	447	psd	4.1.1.65	COG0688	Phosphatidylserine decarboxylase proenzyme	path:map00564, path:ec00564, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_03550	CDS	327	pepD	3.4.13.18	COG2195	Cytosol non-specific dipeptidase	path:map00330, path:ec00330, path:map00340, path:ec00340, path:map00410, path:ec00410, path:map01100, path:ec01100
+DLCOOICO_03575	CDS	297	pyrG	6.3.4.2		CTP synthase	path:map00240, path:ec00240, path:map01100, path:ec01100
+DLCOOICO_03576	CDS	249	cysS_2	6.1.1.16	COG0215	Cysteine--tRNA ligase	path:map00970, path:ec00970
+DLCOOICO_03583	CDS	153	narZ	1.7.5.1	COG5013	Respiratory nitrate reductase 2 alpha chain	path:map00910, path:ec00910, path:map01100, path:ec01100, path:map01120, path:ec01120, path:map01310, path:ec01310
+DLCOOICO_03593	CDS	282	udk	2.7.1.48	COG0572	Uridine kinase	path:map00240, path:ec00240, path:map00983, path:ec00983, path:map01100, path:ec01100
+DLCOOICO_03601	CDS	192	wrbA	1.6.5.2	COG0655	NAD(P)H dehydrogenase (quinone)	path:map00130, path:ec00130, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_03608	CDS	216	murQ_2	4.2.1.126		N-acetylmuramic acid 6-phosphate etherase	path:map00520, path:ec00520, path:map01100, path:ec01100
+DLCOOICO_03626	CDS	204	cbiK	4.99.1.3	COG4822	Sirohydrochlorin cobaltochelatase	path:map00860, path:ec00860, path:map01100, path:ec01100
+DLCOOICO_03631	CDS	282	galK	2.7.1.6	COG0153	Galactokinase	path:map00052, path:ec00052, path:map00520, path:ec00520, path:map01100, path:ec01100
+DLCOOICO_03633	CDS	318	cysH	1.8.4.8	COG0175	Phosphoadenosine phosphosulfate reductase	path:map00920, path:ec00920, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_03647	CDS	222	fryB_2	2.7.1.202	COG1445	PTS system fructose-like EIIB component 1	path:map00051, path:ec00051, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_03666	CDS	165	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1	path:map00400, path:ec00400, path:map00405, path:ec00405, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_03682	CDS	324	yeiG	3.1.2.12	COG0627	S-formylglutathione hydrolase YeiG	path:map00680, path:ec00680, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_03698	CDS	183	hxpA	3.1.3.22	COG0637	Hexitol phosphatase A	path:map00051, path:ec00051, path:map01100, path:ec01100
+DLCOOICO_03710	CDS	315	pgsA	2.7.8.5	COG0558	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	path:map00564, path:ec00564, path:map01100, path:ec01100
+DLCOOICO_03715	CDS	102	acnB	4.2.1.3	COG1049	Aconitate hydratase B	path:map00020, path:ec00020, path:map00630, path:ec00630, path:map00720, path:ec00720, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_03721	CDS	276	sdaB	4.3.1.17	COG1760	L-serine dehydratase 2	path:map00260, path:ec00260, path:map00270, path:ec00270, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_03726	CDS	165	bioA	2.6.1.62	COG0161	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase	path:map00780, path:ec00780, path:map01100, path:ec01100
+DLCOOICO_03729	CDS	282	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase	path:map00230, path:ec00230, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_03731	CDS	156	ybdL_1	2.6.1.88	COG0436	Methionine aminotransferase	path:map00966, path:ec00966
+DLCOOICO_03736	CDS	327	gpt	2.4.2.22	COG0503	Xanthine phosphoribosyltransferase	path:map00230, path:ec00230, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_03747	CDS	258	lpxH	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase	path:map00540, path:ec00540, path:map01100, path:ec01100
+DLCOOICO_03761	CDS	222	ansA	3.5.1.1	COG0252	L-asparaginase 1	path:map00250, path:ec00250, path:map00460, path:ec00460, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_03774	CDS	135	ubiX	2.5.1.129	COG0163	Flavin prenyltransferase UbiX	path:map00740, path:ec00740, path:map01100, path:ec01100
+DLCOOICO_03787	CDS	183	folK	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase	path:map00790, path:ec00790, path:map01100, path:ec01100
+DLCOOICO_03796	CDS	336	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase	path:map00030, path:ec00030, path:map00230, path:ec00230, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_03811	CDS	159	lpxT	2.7.4.29	COG0671	Lipid A 1-diphosphate synthase	path:map00540, path:ec00540
+DLCOOICO_03818	CDS	345	phnM	3.6.1.63	COG3454	Alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase	path:map00440, path:ec00440, path:map01100, path:ec01100
+DLCOOICO_03819	CDS	243	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase 1 subunit beta	path:map00230, path:ec00230, path:map00240, path:ec00240, path:map00480, path:ec00480, path:map00983, path:ec00983, path:map01100, path:ec01100
+DLCOOICO_03825	CDS	279	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase	path:map00540, path:ec00540, path:map01100, path:ec01100
+DLCOOICO_03830	CDS	141	gshB	6.3.2.3	COG0189	Glutathione synthetase	path:map00270, path:ec00270, path:map00480, path:ec00480, path:map01100, path:ec01100
+DLCOOICO_03838	CDS	291	ilvH	2.2.1.6	COG0440	Acetolactate synthase isozyme 3 small subunit	path:map00290, path:ec00290, path:map00650, path:ec00650, path:map00660, path:ec00660, path:map00770, path:ec00770, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_03848	CDS	213	hutG	3.5.3.8	COG0010	Formimidoylglutamase	path:map00340, path:ec00340, path:map01100, path:ec01100
+DLCOOICO_03874	CDS	126	purK	6.3.4.18	COG0026	N5-carboxyaminoimidazole ribonucleotide synthase	path:map00230, path:ec00230, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_03880	CDS	192	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase	path:map00030, path:ec00030, path:map00480, path:ec00480, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_03884	CDS	252	aspC	2.6.1.1	COG1448	Aspartate aminotransferase	path:map00220, path:ec00220, path:map00250, path:ec00250, path:map00270, path:ec00270, path:map00330, path:ec00330, path:map00350, path:ec00350, path:map00360, path:ec00360, path:map00400, path:ec00400, path:map00401, path:ec00401, path:map00710, path:ec00710, path:map00950, path:ec00950, path:map00960, path:ec00960, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_03888	CDS	246	dhaL	2.7.1.121	COG2376	PEP-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL	path:map00561, path:ec00561, path:map01100, path:ec01100
+DLCOOICO_03890	CDS	156	lysS	6.1.1.6	COG1190	Lysine--tRNA ligase	path:map00970, path:ec00970
+DLCOOICO_03908	CDS	246	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH	path:map00340, path:ec00340, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_03924	CDS	273	nagK	2.7.1.59	COG1940	N-acetyl-D-glucosamine kinase	path:map00520, path:ec00520, path:map01100, path:ec01100
+DLCOOICO_03931	CDS	249	btuR	2.5.1.17	COG2109	Corrinoid adenosyltransferase	path:map00860, path:ec00860, path:map01100, path:ec01100
+DLCOOICO_03934	CDS	258	otsB	3.1.3.12	COG1877	Trehalose-6-phosphate phosphatase	path:map00500, path:ec00500, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_03942	CDS	165	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase	path:map00052, path:ec00052, path:map00520, path:ec00520, path:map01100, path:ec01100
+DLCOOICO_03959	CDS	234	nhoA	2.3.1.5	COG2162	Arylamine N-acetyltransferase	path:map00232, path:ec00232, path:map00633, path:ec00633, path:map00983, path:ec00983, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_03961	CDS	177	edd	4.2.1.12	COG0129	Phosphogluconate dehydratase	path:map00030, path:ec00030, path:map01100, path:ec01100, path:map01120, path:ec01120
+DLCOOICO_03962	CDS	309	hemB_1	4.2.1.24	COG0113	Delta-aminolevulinic acid dehydratase	path:map00860, path:ec00860, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_03971	CDS	120	lysA	4.1.1.20		Diaminopimelate decarboxylase	path:map00300, path:ec00300, path:map00470, path:ec00470, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_03986	CDS	99	metE	2.1.1.14	COG0620	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	path:map00270, path:ec00270, path:map00450, path:ec00450, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_03995	CDS	192	astB	3.5.3.23	COG3724	N-succinylarginine dihydrolase	path:map00330, path:ec00330, path:map01100, path:ec01100
+DLCOOICO_04001	CDS	273	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS	path:map00730, path:ec00730, path:map01100, path:ec01100
+DLCOOICO_04006	CDS	183	sufS	2.8.1.7	COG0520	Cysteine desulfurase	path:map00730, path:ec00730, path:map01100, path:ec01100
+DLCOOICO_04011	CDS	168	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase	path:map00550, path:ec00550, path:map01100, path:ec01100
+DLCOOICO_04018	CDS	201	gmhA	5.3.1.28	COG0279	Phosphoheptose isomerase	path:map00540, path:ec00540, path:map01100, path:ec01100
+DLCOOICO_04021	CDS	231	gmd	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase	path:map00051, path:ec00051, path:map00520, path:ec00520, path:map00541, path:ec00541, path:map01100, path:ec01100
+DLCOOICO_04034	CDS	159	ybdL_2	2.6.1.88	COG0436	Methionine aminotransferase	path:map00966, path:ec00966
+DLCOOICO_04039	CDS	126	moaC	4.6.1.17	COG0315	Cyclic pyranopterin monophosphate synthase	path:map00790, path:ec00790, path:map01100, path:ec01100
+DLCOOICO_04050	CDS	132	acnA	4.2.1.3	COG1048	Aconitate hydratase A	path:map00020, path:ec00020, path:map00630, path:ec00630, path:map00720, path:ec00720, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_04054	CDS	234	carA	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain	path:map00220, path:ec00220, path:map00240, path:ec00240, path:map00250, path:ec00250, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_04058	CDS	156	aroG	2.5.1.54	COG0722	Phospho-2-dehydro-3-deoxyheptonate aldolase, Phe-sensitive	path:map00400, path:ec00400, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_04064	CDS	210	cmk	2.7.4.25	COG0283	Cytidylate kinase	path:map00240, path:ec00240, path:map01100, path:ec01100
+DLCOOICO_04066	CDS	114	mtnK	2.7.1.100	COG4857	Methylthioribose kinase	path:map00270, path:ec00270, path:map01100, path:ec01100
+DLCOOICO_04077	CDS	183	metC_2	4.4.1.13	COG0626	Cystathionine beta-lyase MetC	path:map00270, path:ec00270, path:map00450, path:ec00450, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_04091	CDS	177	leuC1	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit 1	path:map00290, path:ec00290, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_04096	CDS	201	aceF	2.3.1.12	COG0508	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex	path:map00010, path:ec00010, path:map00020, path:ec00020, path:map00620, path:ec00620, path:map00785, path:ec00785, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_04107	CDS	135	iucA	6.3.2.38		N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase	path:map00997, path:ec00997, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_04113	CDS	195	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase A	path:map00010, path:ec00010, path:map00710, path:ec00710, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_04120	CDS	132	fabB	2.3.1.41	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 1	path:map00061, path:ec00061, path:map00780, path:ec00780, path:map01100, path:ec01100
+DLCOOICO_04128	CDS	144	guaC	1.7.1.7	COG0516	GMP reductase	path:map00230, path:ec00230, path:map01100, path:ec01100
+DLCOOICO_04134	CDS	126	manA	5.3.1.8	COG1482	Mannose-6-phosphate isomerase	path:map00051, path:ec00051, path:map00520, path:ec00520, path:map00541, path:ec00541, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_04137	CDS	153	sucC	6.2.1.5	COG0045	Succinate--CoA ligase [ADP-forming] subunit beta	path:map00020, path:ec00020, path:map00640, path:ec00640, path:map00660, path:ec00660, path:map00720, path:ec00720, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_04154	CDS	156	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase	path:map00010, path:ec00010, path:map00051, path:ec00051, path:map00562, path:ec00562, path:map00710, path:ec00710, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_04158	CDS	153	aroH	2.5.1.54	COG0722	Phospho-2-dehydro-3-deoxyheptonate aldolase, Trp-sensitive	path:map00400, path:ec00400, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_04160	CDS	168	yeaD	5.1.3.15	COG0676	Putative glucose-6-phosphate 1-epimerase	path:map00010, path:ec00010, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_04178	CDS	234	pse1	3.5.2.6		Beta-lactamase PSE-1	path:map00311, path:ec00311, path:map01110, path:ec01110
+DLCOOICO_04185	CDS	195	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase	path:map00970, path:ec00970
+DLCOOICO_04187	CDS	213	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase	path:map00340, path:ec00340, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_04202	CDS	153	narG	1.7.5.1	COG5013	Respiratory nitrate reductase 1 alpha chain	path:map00910, path:ec00910, path:map01100, path:ec01100, path:map01120, path:ec01120, path:map01310, path:ec01310
+DLCOOICO_04203	CDS	129	bglH_2	3.2.1.86	COG2723	Aryl-phospho-beta-D-glucosidase BglH	path:map00010, path:ec00010, path:map00500, path:ec00500
+DLCOOICO_04204	CDS	144	hemB_2	4.2.1.24	COG0113	Delta-aminolevulinic acid dehydratase	path:map00860, path:ec00860, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_04206	CDS	123	ybjI	3.1.3.104	COG0561	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI	path:map00740, path:ec00740, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_04213	CDS	204	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase	path:map00052, path:ec00052, path:map00520, path:ec00520, path:map00541, path:ec00541, path:map01100, path:ec01100
+DLCOOICO_04218	CDS	132	ahr	1.1.1.2	COG1064	Aldehyde reductase Ahr	path:map00010, path:ec00010, path:map00040, path:ec00040, path:map00053, path:ec00053, path:map00561, path:ec00561, path:map00620, path:ec00620, path:map00930, path:ec00930, path:map01100, path:ec01100, path:map01110, path:ec01110, path:map01120, path:ec01120
+DLCOOICO_04224	CDS	147	tauD	1.14.11.17	COG2175	Alpha-ketoglutarate-dependent taurine dioxygenase	path:map00430, path:ec00430, path:map00920, path:ec00920
+DLCOOICO_04225	CDS	141	sdaA	4.3.1.17	COG1760	L-serine dehydratase 1	path:map00260, path:ec00260, path:map00270, path:ec00270, path:map01100, path:ec01100, path:map01110, path:ec01110
+DLCOOICO_04228	CDS	120	ddlA	6.3.2.4	COG1181	D-alanine--D-alanine ligase A	path:map00470, path:ec00470, path:map00550, path:ec00550, path:map01100, path:ec01100
+DLCOOICO_04232	CDS	105	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase	path:map00630, path:ec00630, path:map00670, path:ec00670, path:map01100, path:ec01100
+DLCOOICO_04240	CDS	171	frmA	1.1.1.284	COG1062	S-(hydroxymethyl)glutathione dehydrogenase	path:map00680, path:ec00680, path:map01100, path:ec01100, path:map01120, path:ec01120

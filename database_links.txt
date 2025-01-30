@@ -1,0 +1,17 @@
+find the protein from its sequence 
+https://www.uniprot.org/
+
+protein data bank 
+https://www.rcsb.org/
+
+
+antiSMASH stands for "Antibiotics & Secondary Metabolite Analysis Shell". It is a bioinformatics tool used to identify and analyze secondary metabolite biosynthetic gene clusters (BGCs) in microbial genomes.
+https://antismash.secondarymetabolites.org/#!/start
+
+
+The Comprehensive Antibiotic Resistance Database
+https://card.mcmaster.ca/home
+
+
+Active site prediction
+https://proteins.plus/help/dogsite

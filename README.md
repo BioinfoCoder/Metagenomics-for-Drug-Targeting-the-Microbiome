@@ -51,7 +51,7 @@ This project utilizes metagenomic analysis to identify biosynthetic gene cluster
 
 ```
 📂 Metagenomics-Drug-Targeting
-│-- 📂 data/                  # Raw and processed metagenomic datasets
+│-- 📂 data/                  # Raw  metagenomic datasets
 │-- 📂 scripts/               # Scripts for preprocessing, analysis, and visualization
 │-- 📂 Results/               # Output files from different analysis steps
 │-- 📂 Models/                # Homology models and active site predictions

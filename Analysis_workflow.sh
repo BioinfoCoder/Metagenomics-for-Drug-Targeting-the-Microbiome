@@ -49,14 +49,14 @@ bowtie2 -x $HOST_INDEX -1 $TRIMMED_R1 -2 $TRIMMED_R2 \
   -S $OUTPUT_DIR/output.sam
 
 #echo "Downloading MetaPhlAn database..."
-aria2c -x 16 -d /home/doaa/miniconda3/lib/python3.11/site-packages/metaphlan/metaphlan_databases/ \
-http://cmprod1.cibio.unitn.it/biobakery4/metaphlan_databases/bowtie2_indexes/mpa_vJun23_CHOCOPhlAnSGB_202403_bt2.tar
+#aria2c -x 16 -d /home/doaa/miniconda3/lib/python3.11/site-packages/metaphlan/metaphlan_databases/ \
+#http://cmprod1.cibio.unitn.it/biobakery4/metaphlan_databases/bowtie2_indexes/mpa_vJun23_CHOCOPhlAnSGB_202403_bt2.tar
 
 # Run MetaPhlAn with trimmed R1 and R2 fastq files and install it 
-metaphlan $INPUT_R1,$INPUT_R2 \
-    --input_type fastq \
-    --bowtie2db /home/doaa/Metagenomics_workshop/creative_sucesss/ \
-    -o $OUTPUT
+#metaphlan $INPUT_R1,$INPUT_R2 \
+    #--input_type fastq \
+    #--bowtie2db /home/doaa/Metagenomics_workshop/creative_sucesss/ \
+    #-o $OUTPUT
 
 
 # Step 5: De Novo Assembly using SPAdes

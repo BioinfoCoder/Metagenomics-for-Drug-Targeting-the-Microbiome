@@ -1,0 +1,5 @@
+#link to retrieve sample metagenomics data from zenodo
+https://zenodo.org/records/4061297
+
+#Referance human genome
+https://drive.google.com/drive/folders/1L0l81NGU3eXseleiulGPLtVuskdRUNsb?usp=sharing

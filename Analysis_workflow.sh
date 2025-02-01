@@ -21,7 +21,6 @@ ANNOTATION_DIR_R1="annotation_R1"
 ANNOTATION_DIR_R2="annotation_R2"
 PROKKA_PREFIX_R1="my_bacterium_R1"
 PROKKA_PREFIX_R2="my_bacterium_R2"
-MERGED_CONTIGS="merged_contigs.fasta"
 
 Step 1: Quality Control using FastQC
 #echo "Running FastQC for quality control on raw reads..."
